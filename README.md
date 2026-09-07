@@ -1,4 +1,4 @@
-# 🐍 Python Advancement Roadmap
+#  Python Advancement Roadmap
 
 > **From Intermediate to Master — A Journey to Company-Ready Python Development**
 
